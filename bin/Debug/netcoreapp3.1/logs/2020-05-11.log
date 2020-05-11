@@ -1,0 +1,3229 @@
+2020-05-11 17:56:38.2363 INFO Server started.
+
+2020-05-11 21:24:30.2398 INFO Server started.
+
+2020-05-11 21:24:40.2153 INFO 127.0.0.1:57077 connected 
+
+2020-05-11 21:24:40.2153 INFO 127.0.0.1:57078 connected 
+
+2020-05-11 21:24:40.2153 INFO 127.0.0.1:57077 requested:
+GET / HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:24:40.2974 INFO 127.0.0.1:57079 connected 
+
+2020-05-11 21:24:40.3068 INFO 127.0.0.1:57078 requested:
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: http://127.0.0.1/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:24:50.3494 INFO 127.0.0.1:57080 connected 
+
+2020-05-11 21:24:50.3527 INFO 127.0.0.1:57081 connected 
+
+2020-05-11 21:25:00.4017 INFO 127.0.0.1:57083 connected 
+
+2020-05-11 21:25:00.4017 INFO 127.0.0.1:57084 connected 
+
+2020-05-11 21:25:07.7020 INFO 127.0.0.1:57083 requested:
+GET /1.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:25:28.8154 INFO 127.0.0.1:57091 connected 
+
+2020-05-11 21:25:28.8407 INFO 127.0.0.1:57092 connected 
+
+2020-05-11 21:25:38.8635 INFO 127.0.0.1:57094 connected 
+
+2020-05-11 21:25:38.8635 INFO 127.0.0.1:57095 connected 
+
+2020-05-11 21:25:49.2771 INFO 127.0.0.1:57102 connected 
+
+2020-05-11 21:25:49.2771 INFO 127.0.0.1:57103 connected 
+
+2020-05-11 21:32:52.1532 INFO 127.0.0.1:57276 connected 
+
+2020-05-11 21:32:52.1532 INFO 127.0.0.1:57277 connected 
+
+2020-05-11 21:40:50.3284 INFO Server started.
+
+2020-05-11 21:41:06.0114 INFO 127.0.0.1:57408 connected 
+
+2020-05-11 21:41:06.0114 INFO 127.0.0.1:57409 connected 
+
+2020-05-11 21:41:13.5920 INFO 127.0.0.1:57408 requested:
+GET /1.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:13.6478 INFO 127.0.0.1:57415 connected 
+
+2020-05-11 21:41:23.6993 INFO 127.0.0.1:57418 connected 
+
+2020-05-11 21:41:23.6993 INFO 127.0.0.1:57419 connected 
+
+2020-05-11 21:41:26.1892 INFO 127.0.0.1:57418 requested:
+GET /1.jpg HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:26.2123 INFO 127.0.0.1:57420 connected 
+
+2020-05-11 21:41:30.9240 INFO 127.0.0.1:57419 requested:
+GET /2.jpg HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:30.9459 INFO 127.0.0.1:57421 connected 
+
+2020-05-11 21:41:36.9872 INFO 127.0.0.1:57422 connected 
+
+2020-05-11 21:41:37.0047 INFO 127.0.0.1:57421 requested:
+GET /3.jpg HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:37.0269 INFO 127.0.0.1:57423 connected 
+
+2020-05-11 21:41:41.7857 INFO 127.0.0.1:57422 requested:
+GET /4.jpg HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:41.8083 INFO 127.0.0.1:57424 connected 
+
+2020-05-11 21:41:46.5239 INFO 127.0.0.1:57423 requested:
+GET /4.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:46.5458 INFO 127.0.0.1:57425 connected 
+
+2020-05-11 21:41:55.8907 INFO 127.0.0.1:57426 connected 
+
+2020-05-11 21:41:55.9187 INFO 127.0.0.1:57425 requested:
+GET /5.html HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:55.9390 INFO 127.0.0.1:57426 requested:
+GET /5_files/load.php HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:55.9390 INFO 127.0.0.1:57427 connected 
+
+2020-05-11 21:41:55.9390 INFO 127.0.0.1:57427 requested:
+GET /5_files/load(1).php HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:55.9390 INFO 127.0.0.1:57428 connected 
+
+2020-05-11 21:41:55.9478 INFO 127.0.0.1:57428 requested:
+GET /5_files/load(2).php HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:55.9478 INFO 127.0.0.1:57429 connected 
+
+2020-05-11 21:41:55.9635 INFO 127.0.0.1:57429 requested:
+GET /5_files/Pinus_aristata_cones.jpg HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:55.9635 INFO 127.0.0.1:57430 connected 
+
+2020-05-11 21:41:55.9635 INFO 127.0.0.1:57430 requested:
+GET /5_files/275px-Pinus_aristata_range_map_1.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:55.9635 INFO 127.0.0.1:57431 connected 
+
+2020-05-11 21:41:55.9635 INFO 127.0.0.1:57431 requested:
+GET /5_files/240px-Status_iucn2.3_NT_ru.svg.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:55.9635 INFO 127.0.0.1:57432 connected 
+
+2020-05-11 21:41:55.9635 INFO 127.0.0.1:57432 requested:
+GET /5_files/17px-Wikispecies-logo.svg.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:55.9795 INFO 127.0.0.1:57433 connected 
+
+2020-05-11 21:41:55.9795 INFO 127.0.0.1:57433 requested:
+GET /5_files/15px-Commons-logo.svg.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:55.9795 INFO 127.0.0.1:57434 connected 
+
+2020-05-11 21:41:55.9795 INFO 127.0.0.1:57434 requested:
+GET /5_files/180px-Pinus_Aristata_resin_flecks.jpg HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:55.9795 INFO 127.0.0.1:57435 connected 
+
+2020-05-11 21:41:55.9934 INFO 127.0.0.1:57435 requested:
+GET /5_files/180px-Pinus_aristata_PAN_Foliage.JPG HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:55.9934 INFO 127.0.0.1:57436 connected 
+
+2020-05-11 21:41:55.9934 INFO 127.0.0.1:57436 requested:
+GET /5_files/200px-Pinus_aristata_foliage.jpg HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:55.9934 INFO 127.0.0.1:57437 connected 
+
+2020-05-11 21:41:56.0091 INFO 127.0.0.1:57437 requested:
+GET /5_files/Oakleaf_template.gif HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:56.0091 INFO 127.0.0.1:57438 connected 
+
+2020-05-11 21:41:56.0091 INFO 127.0.0.1:57438 requested:
+GET /5_files/wikimedia-button.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:56.0091 INFO 127.0.0.1:57439 connected 
+
+2020-05-11 21:41:56.0091 INFO 127.0.0.1:57439 requested:
+GET /5_files/poweredby_mediawiki_88x31.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:56.0266 INFO 127.0.0.1:57440 connected 
+
+2020-05-11 21:41:56.0266 INFO 127.0.0.1:57440 requested:
+GET /w/load.php?lang=ru&modules=ext.gadget.blpEditNotice%2Ccollapserefs%2CdirectLinkToCommons%2Cedittop%2Clogo%2CreferenceTooltips%2CsidebarRelated%2Cwikibugs&skin=vector&version=1oyvz HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:56.0266 INFO 127.0.0.1:57441 connected 
+
+2020-05-11 21:41:56.0266 INFO 127.0.0.1:57441 requested:
+GET /w/load.php?lang=ru&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1i9mj HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:56.0412 INFO 127.0.0.1:57442 connected 
+
+2020-05-11 21:41:56.0412 INFO 127.0.0.1:57442 requested:
+GET /w/load.php?lang=ru&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.flaggedRevs.advanced%7Cext.quicksurveys.init%2Clib%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=1w1e1 HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:56.0412 INFO 127.0.0.1:57443 connected 
+
+2020-05-11 21:41:56.0412 INFO 127.0.0.1:57443 requested:
+GET /w/extensions/UniversalLanguageSelector/resources/images/compact-links-trigger.svg?ebb8e HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:41:57.8210 INFO 127.0.0.1:57445 connected 
+
+2020-05-11 21:41:57.8210 INFO 127.0.0.1:57446 connected 
+
+2020-05-11 21:42:16.2184 INFO 127.0.0.1:57447 connected 
+
+2020-05-11 21:42:16.2184 INFO 127.0.0.1:57448 connected 
+
+2020-05-11 21:42:43.6522 INFO 127.0.0.1:57454 connected 
+
+2020-05-11 21:42:43.6522 INFO 127.0.0.1:57455 connected 
+
+2020-05-11 21:42:46.0780 INFO 127.0.0.1:57454 requested:
+GET /5.html HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.0969 INFO 127.0.0.1:57455 requested:
+GET /5_files/load.php HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.0969 INFO 127.0.0.1:57459 connected 
+
+2020-05-11 21:42:46.0969 INFO 127.0.0.1:57459 requested:
+GET /5_files/load(1).php HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.1137 INFO 127.0.0.1:57460 connected 
+
+2020-05-11 21:42:46.1137 INFO 127.0.0.1:57460 requested:
+GET /5_files/load(2).php HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.1180 INFO 127.0.0.1:57461 connected 
+
+2020-05-11 21:42:46.1180 INFO 127.0.0.1:57461 requested:
+GET /5_files/Pinus_aristata_cones.jpg HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.1180 INFO 127.0.0.1:57462 connected 
+
+2020-05-11 21:42:46.1180 INFO 127.0.0.1:57462 requested:
+GET /5_files/275px-Pinus_aristata_range_map_1.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.1180 INFO 127.0.0.1:57463 connected 
+
+2020-05-11 21:42:46.1180 INFO 127.0.0.1:57463 requested:
+GET /5_files/240px-Status_iucn2.3_NT_ru.svg.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.1360 INFO 127.0.0.1:57464 connected 
+
+2020-05-11 21:42:46.1360 INFO 127.0.0.1:57464 requested:
+GET /5_files/17px-Wikispecies-logo.svg.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.1360 INFO 127.0.0.1:57465 connected 
+
+2020-05-11 21:42:46.1360 INFO 127.0.0.1:57465 requested:
+GET /5_files/15px-Commons-logo.svg.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.1360 INFO 127.0.0.1:57466 connected 
+
+2020-05-11 21:42:46.1513 INFO 127.0.0.1:57466 requested:
+GET /5_files/180px-Pinus_Aristata_resin_flecks.jpg HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.1513 INFO 127.0.0.1:57467 connected 
+
+2020-05-11 21:42:46.1513 INFO 127.0.0.1:57467 requested:
+GET /5_files/180px-Pinus_aristata_PAN_Foliage.JPG HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.1513 INFO 127.0.0.1:57468 connected 
+
+2020-05-11 21:42:46.1513 INFO 127.0.0.1:57468 requested:
+GET /5_files/200px-Pinus_aristata_foliage.jpg HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.1658 INFO 127.0.0.1:57469 connected 
+
+2020-05-11 21:42:46.1658 INFO 127.0.0.1:57469 requested:
+GET /5_files/Oakleaf_template.gif HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.1658 INFO 127.0.0.1:57470 connected 
+
+2020-05-11 21:42:46.1658 INFO 127.0.0.1:57470 requested:
+GET /5_files/wikimedia-button.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.1658 INFO 127.0.0.1:57471 connected 
+
+2020-05-11 21:42:46.1814 INFO 127.0.0.1:57471 requested:
+GET /5_files/poweredby_mediawiki_88x31.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.1814 INFO 127.0.0.1:57472 connected 
+
+2020-05-11 21:42:46.1814 INFO 127.0.0.1:57472 requested:
+GET /w/load.php?lang=ru&modules=ext.gadget.blpEditNotice%2Ccollapserefs%2CdirectLinkToCommons%2Cedittop%2Clogo%2CreferenceTooltips%2CsidebarRelated%2Cwikibugs&skin=vector&version=1oyvz HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.2020 INFO 127.0.0.1:57473 connected 
+
+2020-05-11 21:42:46.2020 INFO 127.0.0.1:57473 requested:
+GET /w/load.php?lang=ru&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1i9mj HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.2020 INFO 127.0.0.1:57474 connected 
+
+2020-05-11 21:42:46.2020 INFO 127.0.0.1:57474 requested:
+GET /w/load.php?lang=ru&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.flaggedRevs.advanced%7Cext.quicksurveys.init%2Clib%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=1w1e1 HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.2124 INFO 127.0.0.1:57475 connected 
+
+2020-05-11 21:42:46.2124 INFO 127.0.0.1:57475 requested:
+GET /w/extensions/UniversalLanguageSelector/resources/images/compact-links-trigger.svg?ebb8e HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/5.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:42:46.2269 INFO 127.0.0.1:57476 connected 
+
+2020-05-11 21:42:46.2269 INFO 127.0.0.1:57477 connected 
+
+2020-05-11 21:42:56.3392 INFO 127.0.0.1:57480 connected 
+
+2020-05-11 21:42:56.3392 INFO 127.0.0.1:57481 connected 
+
+2020-05-11 21:44:08.9098 INFO 127.0.0.1:57494 connected 
+
+2020-05-11 21:44:08.9098 INFO 127.0.0.1:57495 connected 
+
+2020-05-11 21:44:18.9571 INFO 127.0.0.1:57497 connected 
+
+2020-05-11 21:44:18.9571 INFO 127.0.0.1:57498 connected 
+
+2020-05-11 21:44:19.5846 INFO 127.0.0.1:57497 requested:
+GET /7.html HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.6025 INFO 127.0.0.1:57498 requested:
+GET /5_files/load.php HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.6025 INFO 127.0.0.1:57499 connected 
+
+2020-05-11 21:44:19.6025 INFO 127.0.0.1:57499 requested:
+GET /5_files/load(1).php HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.6025 INFO 127.0.0.1:57500 connected 
+
+2020-05-11 21:44:19.6025 INFO 127.0.0.1:57500 requested:
+GET /5_files/load(2).php HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.6217 INFO 127.0.0.1:57501 connected 
+
+2020-05-11 21:44:19.6217 INFO 127.0.0.1:57501 requested:
+GET /5_files/Pinus_aristata_cones.jpg HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.6217 INFO 127.0.0.1:57502 connected 
+
+2020-05-11 21:44:19.6217 INFO 127.0.0.1:57502 requested:
+GET /5_files/275px-Pinus_aristata_range_map_1.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.6217 INFO 127.0.0.1:57503 connected 
+
+2020-05-11 21:44:19.6217 INFO 127.0.0.1:57503 requested:
+GET /5_files/240px-Status_iucn2.3_NT_ru.svg.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.6378 INFO 127.0.0.1:57504 connected 
+
+2020-05-11 21:44:19.6378 INFO 127.0.0.1:57504 requested:
+GET /5_files/17px-Wikispecies-logo.svg.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.6378 INFO 127.0.0.1:57505 connected 
+
+2020-05-11 21:44:19.6378 INFO 127.0.0.1:57505 requested:
+GET /5_files/15px-Commons-logo.svg.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.6503 INFO 127.0.0.1:57506 connected 
+
+2020-05-11 21:44:19.6503 INFO 127.0.0.1:57506 requested:
+GET /5_files/180px-Pinus_Aristata_resin_flecks.jpg HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.6503 INFO 127.0.0.1:57507 connected 
+
+2020-05-11 21:44:19.6503 INFO 127.0.0.1:57507 requested:
+GET /5_files/180px-Pinus_aristata_PAN_Foliage.JPG HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.6503 INFO 127.0.0.1:57508 connected 
+
+2020-05-11 21:44:19.6693 INFO 127.0.0.1:57508 requested:
+GET /5_files/200px-Pinus_aristata_foliage.jpg HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.6693 INFO 127.0.0.1:57509 connected 
+
+2020-05-11 21:44:19.6693 INFO 127.0.0.1:57509 requested:
+GET /5_files/Oakleaf_template.gif HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.6808 INFO 127.0.0.1:57510 connected 
+
+2020-05-11 21:44:19.6808 INFO 127.0.0.1:57510 requested:
+GET /5_files/wikimedia-button.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.6808 INFO 127.0.0.1:57511 connected 
+
+2020-05-11 21:44:19.6808 INFO 127.0.0.1:57511 requested:
+GET /5_files/poweredby_mediawiki_88x31.png HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.6808 INFO 127.0.0.1:57512 connected 
+
+2020-05-11 21:44:19.6808 INFO 127.0.0.1:57512 requested:
+GET /w/load.php?lang=ru&modules=ext.gadget.blpEditNotice%2Ccollapserefs%2CdirectLinkToCommons%2Cedittop%2Clogo%2CreferenceTooltips%2CsidebarRelated%2Cwikibugs&skin=vector&version=1oyvz HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.7019 INFO 127.0.0.1:57513 connected 
+
+2020-05-11 21:44:19.7019 INFO 127.0.0.1:57513 requested:
+GET /w/load.php?lang=ru&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1i9mj HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.7157 INFO 127.0.0.1:57514 connected 
+
+2020-05-11 21:44:19.7157 INFO 127.0.0.1:57514 requested:
+GET /w/load.php?lang=ru&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.flaggedRevs.advanced%7Cext.quicksurveys.init%2Clib%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=1w1e1 HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.7157 INFO 127.0.0.1:57515 connected 
+
+2020-05-11 21:44:19.7157 INFO 127.0.0.1:57515 requested:
+GET /w/extensions/UniversalLanguageSelector/resources/images/compact-links-trigger.svg?ebb8e HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/7.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:19.7610 INFO 127.0.0.1:57516 connected 
+
+2020-05-11 21:44:19.7610 INFO 127.0.0.1:57517 connected 
+
+2020-05-11 21:44:29.7899 INFO 127.0.0.1:57518 connected 
+
+2020-05-11 21:44:29.7932 INFO 127.0.0.1:57519 connected 
+
+2020-05-11 21:44:43.8251 INFO 127.0.0.1:57526 connected 
+
+2020-05-11 21:44:43.8251 INFO 127.0.0.1:57527 connected 
+
+2020-05-11 21:44:43.8502 INFO 127.0.0.1:57526 requested:
+GET /5_files/180px-Pinus_Aristata_resin_flecks.jpg HTTP/1.1
+Host: 127.0.0.1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 21:44:43.9086 INFO 127.0.0.1:57528 connected 
+
+2020-05-11 21:44:53.9610 INFO 127.0.0.1:57529 connected 
+
+2020-05-11 21:44:53.9640 INFO 127.0.0.1:57530 connected 
+
+2020-05-11 22:03:36.9075 INFO Server started.
+
+2020-05-11 22:03:44.2141 INFO 127.0.0.1:57763 connected 
+
+2020-05-11 22:03:44.2141 INFO 127.0.0.1:57764 connected 
+
+2020-05-11 22:03:52.7108 INFO 192.168.88.206:57775 connected 
+
+2020-05-11 22:03:52.7150 INFO 192.168.88.206:57776 connected 
+
+2020-05-11 22:03:52.7336 INFO 192.168.88.206:57775 requested:
+GET /1.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 22:03:52.7872 INFO 192.168.88.206:57777 connected 
+
+2020-05-11 22:03:52.8115 INFO 192.168.88.206:57776 requested:
+GET /favicon.ico HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/1.png
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 22:03:58.0127 INFO 192.168.88.206:57778 connected 
+
+2020-05-11 22:03:58.0417 INFO 192.168.88.206:57777 requested:
+GET /1.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 22:03:58.0639 INFO 192.168.88.206:57779 connected 
+
+2020-05-11 22:03:59.8439 INFO 127.0.0.1:57780 connected 
+
+2020-05-11 22:03:59.8439 INFO 127.0.0.1:57781 connected 
+
+2020-05-11 22:04:07.5645 INFO 192.168.88.206:57778 requested:
+GET /6.gif HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 22:04:07.6086 INFO 192.168.88.206:57782 connected 
+
+2020-05-11 22:10:02.7923 INFO Server started.
+
+2020-05-11 22:10:06.1129 INFO 192.168.88.206:57809 connected 
+
+2020-05-11 22:10:06.1225 INFO 192.168.88.206:57810 connected 
+
+2020-05-11 22:10:15.1586 INFO 192.168.88.206:57809 requested:
+GET /6.gif HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 22:10:15.1658 INFO Sending to 192.168.88.206:57809:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\6.gif
+2020-05-11 22:10:15.2141 INFO 192.168.88.206:57814 connected 
+
+2020-05-11 22:10:23.7816 INFO 192.168.88.206:57815 connected 
+
+2020-05-11 22:10:23.8070 INFO 192.168.88.206:57814 requested:
+GET /1.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-05-11 22:10:23.8070 INFO Sending to 192.168.88.206:57814:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\1.jpg
+2020-05-11 22:10:23.8260 INFO 192.168.88.206:57816 connected 
+
+2020-05-11 22:10:33.8815 INFO 192.168.88.206:57818 connected 
+
+2020-05-11 22:30:06.6527 INFO Server started.
+
+2020-05-11 22:30:09.0036 INFO 192.168.88.206:58102 connected 
+
+2020-05-11 22:30:09.0119 INFO 192.168.88.206:58103 connected 
+
+2020-05-11 22:30:16.0923 INFO 192.168.88.206:58102 requested:
+GET / HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:30:16.0923 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\index.html not exists
+
+2020-05-11 22:30:16.1173 INFO 192.168.88.206:58104 connected 
+
+2020-05-11 22:30:26.1703 INFO 192.168.88.206:58105 connected 
+
+2020-05-11 22:30:26.1703 INFO 192.168.88.206:58106 connected 
+
+2020-05-11 22:30:36.2204 INFO 192.168.88.206:58107 connected 
+
+2020-05-11 22:30:36.2204 INFO 192.168.88.206:58108 connected 
+
+2020-05-11 22:30:46.2705 INFO 192.168.88.206:58114 connected 
+
+2020-05-11 22:30:46.2737 INFO 192.168.88.206:58115 connected 
+
+2020-05-11 22:30:56.3219 INFO 192.168.88.206:58117 connected 
+
+2020-05-11 22:30:56.3219 INFO 192.168.88.206:58118 connected 
+
+2020-05-11 22:31:06.3721 INFO 192.168.88.206:58119 connected 
+
+2020-05-11 22:31:06.3721 INFO 192.168.88.206:58120 connected 
+
+2020-05-11 22:31:16.4231 INFO 192.168.88.206:58121 connected 
+
+2020-05-11 22:31:16.4231 INFO 192.168.88.206:58122 connected 
+
+2020-05-11 22:31:26.4732 INFO 192.168.88.206:58132 connected 
+
+2020-05-11 22:31:26.4732 INFO 192.168.88.206:58133 connected 
+
+2020-05-11 22:31:36.5230 INFO 192.168.88.206:58134 connected 
+
+2020-05-11 22:31:36.5263 INFO 192.168.88.206:58135 connected 
+
+2020-05-11 22:31:46.5733 INFO 192.168.88.206:58137 connected 
+
+2020-05-11 22:31:46.5733 INFO 192.168.88.206:58138 connected 
+
+2020-05-11 22:31:56.6239 INFO 192.168.88.206:58139 connected 
+
+2020-05-11 22:31:56.6239 INFO 192.168.88.206:58140 connected 
+
+2020-05-11 22:32:06.6747 INFO 192.168.88.206:58142 connected 
+
+2020-05-11 22:32:06.6747 INFO 192.168.88.206:58143 connected 
+
+2020-05-11 22:32:16.7258 INFO 192.168.88.206:58144 connected 
+
+2020-05-11 22:32:16.7294 INFO 192.168.88.206:58145 connected 
+
+2020-05-11 22:32:26.7752 INFO 192.168.88.206:58146 connected 
+
+2020-05-11 22:32:26.7752 INFO 192.168.88.206:58147 connected 
+
+2020-05-11 22:32:36.8259 INFO 192.168.88.206:58148 connected 
+
+2020-05-11 22:32:36.8259 INFO 192.168.88.206:58149 connected 
+
+2020-05-11 22:32:46.8788 INFO 192.168.88.206:58152 connected 
+
+2020-05-11 22:32:46.8883 INFO 192.168.88.206:58153 connected 
+
+2020-05-11 22:32:56.9275 INFO 192.168.88.206:58156 connected 
+
+2020-05-11 22:32:56.9308 INFO 192.168.88.206:58157 connected 
+
+2020-05-11 22:33:06.9772 INFO 192.168.88.206:58158 connected 
+
+2020-05-11 22:33:06.9772 INFO 192.168.88.206:58159 connected 
+
+2020-05-11 22:33:17.0279 INFO 192.168.88.206:58161 connected 
+
+2020-05-11 22:33:17.0279 INFO 192.168.88.206:58162 connected 
+
+2020-05-11 22:33:27.0785 INFO 192.168.88.206:58164 connected 
+
+2020-05-11 22:33:27.0785 INFO 192.168.88.206:58165 connected 
+
+2020-05-11 22:34:03.7564 INFO 192.168.88.206:58181 connected 
+
+2020-05-11 22:34:03.7599 INFO 192.168.88.206:58182 connected 
+
+2020-05-11 22:34:19.8628 INFO 192.168.88.206:58188 connected 
+
+2020-05-11 22:34:19.8628 INFO 192.168.88.206:58189 connected 
+
+2020-05-11 22:34:23.6699 INFO 192.168.88.206:58188 requested:
+GET / HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:35:01.4236 INFO Server started.
+
+2020-05-11 22:35:03.9436 INFO 192.168.88.206:58213 connected 
+
+2020-05-11 22:35:03.9564 INFO 192.168.88.206:58214 connected 
+
+2020-05-11 22:35:03.9734 INFO 192.168.88.206:58213 requested:
+GET /1.. HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:35:24.6252 INFO 192.168.88.206:58216 connected 
+
+2020-05-11 22:35:29.4546 INFO 192.168.88.206:58217 connected 
+
+2020-05-11 22:42:29.9210 INFO Server started.
+
+2020-05-11 22:42:30.7307 INFO 192.168.88.206:58338 connected 
+
+2020-05-11 22:42:30.7307 INFO 192.168.88.206:58339 connected 
+
+2020-05-11 22:42:56.0612 INFO 192.168.88.206:58340 connected 
+
+2020-05-11 22:42:56.0775 INFO 192.168.88.206:58341 connected 
+
+2020-05-11 22:42:56.0775 INFO 192.168.88.206:58338 requested:
+GET /1.. HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:48:33.9623 INFO Server started.
+
+2020-05-11 22:48:42.7335 INFO 192.168.88.206:58435 connected 
+
+2020-05-11 22:48:42.7335 INFO 192.168.88.206:58436 connected 
+
+2020-05-11 22:48:43.8599 INFO 192.168.88.206:58435 requested:
+GET /6.gif HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:48:43.8599 INFO Sending to 192.168.88.206:58435:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\6.gif
+
+2020-05-11 22:48:43.9417 INFO 192.168.88.206:58437 connected 
+
+2020-05-11 22:48:53.9914 ERROR 400 Bad request 
+
+
+2020-05-11 22:48:53.9914 INFO 192.168.88.206:58440 connected 
+
+2020-05-11 22:48:53.9914 ERROR 400 Bad request 
+
+
+2020-05-11 22:48:53.9968 INFO 192.168.88.206:58441 connected 
+
+2020-05-11 22:49:04.0415 ERROR 400 Bad request 
+
+
+2020-05-11 22:49:04.0415 INFO 192.168.88.206:58444 connected 
+
+2020-05-11 22:49:04.0415 ERROR 400 Bad request 
+
+
+2020-05-11 22:49:04.0415 INFO 192.168.88.206:58445 connected 
+
+2020-05-11 22:49:14.0916 ERROR 400 Bad request 
+
+
+2020-05-11 22:49:14.0916 ERROR 400 Bad request 
+
+
+2020-05-11 22:49:14.0916 INFO 192.168.88.206:58446 connected 
+
+2020-05-11 22:49:14.0916 INFO 192.168.88.206:58447 connected 
+
+2020-05-11 22:49:24.1422 ERROR 400 Bad request 
+
+
+2020-05-11 22:49:24.1422 ERROR 400 Bad request 
+
+
+2020-05-11 22:49:24.1422 INFO 192.168.88.206:58454 connected 
+
+2020-05-11 22:49:34.1922 ERROR 400 Bad request 
+
+
+2020-05-11 22:53:04.9283 INFO Server started.
+
+2020-05-11 22:53:07.8715 INFO 192.168.88.206:58519 connected 
+
+2020-05-11 22:53:07.8715 INFO 192.168.88.206:58520 connected 
+
+2020-05-11 22:53:07.8882 INFO 192.168.88.206:58519 requested:
+GET /6.gif HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:53:20.9339 INFO Sending to 192.168.88.206:58519:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\6.gif
+
+2020-05-11 22:54:36.7993 INFO 192.168.88.206:58526 connected 
+
+2020-05-11 22:54:53.1009 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 22:54:55.4585 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 22:55:20.8466 INFO Server started.
+
+2020-05-11 22:55:21.6821 INFO 192.168.88.206:58552 connected 
+
+2020-05-11 22:55:21.6821 INFO 192.168.88.206:58553 connected 
+
+2020-05-11 22:55:22.8840 INFO 192.168.88.206:58552 requested:
+GET /5.html HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:22.8840 INFO Sending to 192.168.88.206:58552:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5.html
+
+2020-05-11 22:55:22.9145 INFO 192.168.88.206:58553 requested:
+GET /5_files/load.php HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:22.9145 INFO 192.168.88.206:58554 connected 
+
+2020-05-11 22:55:22.9145 INFO 192.168.88.206:58554 requested:
+GET /5_files/load(1).php HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:22.9145 INFO Sending to 192.168.88.206:58553:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\load.php
+
+2020-05-11 22:55:22.9145 INFO Sending to 192.168.88.206:58554:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\load(1).php
+
+2020-05-11 22:55:22.9330 INFO 192.168.88.206:58555 connected 
+
+2020-05-11 22:55:22.9330 INFO 192.168.88.206:58555 requested:
+GET /5_files/load(2).php HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:22.9330 INFO Sending to 192.168.88.206:58555:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\load(2).php
+
+2020-05-11 22:55:22.9330 INFO 192.168.88.206:58556 connected 
+
+2020-05-11 22:55:22.9473 INFO 192.168.88.206:58556 requested:
+GET /5_files/Pinus_aristata_cones.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:22.9473 INFO 192.168.88.206:58557 connected 
+
+2020-05-11 22:55:22.9473 INFO 192.168.88.206:58557 requested:
+GET /5_files/275px-Pinus_aristata_range_map_1.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:22.9473 INFO Sending to 192.168.88.206:58556:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\Pinus_aristata_cones.jpg
+
+2020-05-11 22:55:22.9473 INFO 192.168.88.206:58558 connected 
+
+2020-05-11 22:55:22.9473 INFO 192.168.88.206:58558 requested:
+GET /5_files/240px-Status_iucn2.3_NT_ru.svg.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:22.9473 INFO Sending to 192.168.88.206:58557:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\275px-Pinus_aristata_range_map_1.png
+
+2020-05-11 22:55:22.9616 INFO 192.168.88.206:58559 connected 
+
+2020-05-11 22:55:22.9616 INFO Sending to 192.168.88.206:58558:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\240px-Status_iucn2.3_NT_ru.svg.png
+
+2020-05-11 22:55:22.9616 INFO 192.168.88.206:58559 requested:
+GET /5_files/17px-Wikispecies-logo.svg.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:22.9616 INFO 192.168.88.206:58560 connected 
+
+2020-05-11 22:55:22.9616 INFO 192.168.88.206:58560 requested:
+GET /5_files/15px-Commons-logo.svg.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:22.9616 INFO Sending to 192.168.88.206:58559:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\17px-Wikispecies-logo.svg.png
+
+2020-05-11 22:55:22.9616 INFO 192.168.88.206:58561 connected 
+
+2020-05-11 22:55:22.9616 INFO 192.168.88.206:58561 requested:
+GET /5_files/180px-Pinus_Aristata_resin_flecks.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:22.9616 INFO Sending to 192.168.88.206:58560:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\15px-Commons-logo.svg.png
+
+2020-05-11 22:55:22.9785 INFO 192.168.88.206:58562 connected 
+
+2020-05-11 22:55:22.9785 INFO 192.168.88.206:58562 requested:
+GET /5_files/180px-Pinus_aristata_PAN_Foliage.JPG HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:22.9785 INFO Sending to 192.168.88.206:58561:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\180px-Pinus_Aristata_resin_flecks.jpg
+
+2020-05-11 22:55:22.9785 INFO 192.168.88.206:58563 connected 
+
+2020-05-11 22:55:22.9785 INFO 192.168.88.206:58563 requested:
+GET /5_files/200px-Pinus_aristata_foliage.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:22.9785 INFO Sending to 192.168.88.206:58562:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\180px-Pinus_aristata_PAN_Foliage.JPG
+
+2020-05-11 22:55:22.9785 INFO 192.168.88.206:58564 connected 
+
+2020-05-11 22:55:22.9933 INFO Sending to 192.168.88.206:58563:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\200px-Pinus_aristata_foliage.jpg
+
+2020-05-11 22:55:22.9933 INFO 192.168.88.206:58564 requested:
+GET /5_files/Oakleaf_template.gif HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:22.9933 INFO 192.168.88.206:58565 connected 
+
+2020-05-11 22:55:23.0099 INFO 192.168.88.206:58565 requested:
+GET /5_files/wikimedia-button.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:23.0099 INFO Sending to 192.168.88.206:58564:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\Oakleaf_template.gif
+
+2020-05-11 22:55:23.0099 INFO 192.168.88.206:58566 connected 
+
+2020-05-11 22:55:23.0099 INFO 192.168.88.206:58566 requested:
+GET /5_files/poweredby_mediawiki_88x31.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:23.0099 INFO Sending to 192.168.88.206:58565:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\wikimedia-button.png
+
+2020-05-11 22:55:23.0099 INFO 192.168.88.206:58567 connected 
+
+2020-05-11 22:55:23.0099 INFO 192.168.88.206:58567 requested:
+GET /w/extensions/UniversalLanguageSelector/resources/images/compact-links-trigger.svg?ebb8e HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:23.0251 INFO Sending to 192.168.88.206:58566:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\poweredby_mediawiki_88x31.png
+
+2020-05-11 22:55:23.0251 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\w\extensions\UniversalLanguageSelector\resources\images\compact-links-trigger.svg not exists
+
+2020-05-11 22:55:23.1149 INFO 192.168.88.206:58568 connected 
+
+2020-05-11 22:55:23.1149 INFO 192.168.88.206:58568 requested:
+GET /w/load.php?lang=ru&modules=ext.gadget.blpEditNotice%2Ccollapserefs%2CdirectLinkToCommons%2Cedittop%2Clogo%2CreferenceTooltips%2CsidebarRelated%2Cwikibugs&skin=vector&version=1oyvz HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:23.1192 INFO 192.168.88.206:58569 connected 
+
+2020-05-11 22:55:23.1192 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\w\load.php not exists
+
+2020-05-11 22:55:23.1192 INFO 192.168.88.206:58569 requested:
+GET /w/load.php?lang=ru&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1i9mj HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:23.1192 INFO 192.168.88.206:58570 connected 
+
+2020-05-11 22:55:23.1347 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\w\load.php not exists
+
+2020-05-11 22:55:23.1347 INFO 192.168.88.206:58570 requested:
+GET /w/load.php?lang=ru&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.flaggedRevs.advanced%7Cext.quicksurveys.init%2Clib%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=1w1e1 HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:55:23.1347 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\w\load.php not exists
+
+2020-05-11 22:55:23.5813 INFO 192.168.88.206:58571 connected 
+
+2020-05-11 22:55:23.5813 INFO 192.168.88.206:58572 connected 
+
+2020-05-11 22:55:57.7002 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 22:55:57.7002 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 22:55:57.7002 INFO 192.168.88.206:58574 connected 
+
+2020-05-11 22:56:06.7568 INFO 192.168.88.206:58574 requested:
+GET /2.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:56:34.4436 INFO Server started.
+
+2020-05-11 22:56:34.6082 INFO 192.168.88.206:58602 connected 
+
+2020-05-11 22:56:34.6082 INFO 192.168.88.206:58602 requested:
+GET /2.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:56:34.6082 INFO 192.168.88.206:58601 connected 
+
+2020-05-11 22:56:34.6218 INFO Sending to 192.168.88.206:58602:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\2.jpg
+
+2020-05-11 22:56:34.8545 INFO 192.168.88.206:58603 connected 
+
+2020-05-11 22:56:41.9373 INFO 192.168.88.206:58601 requested:
+GET /1.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:56:41.9373 INFO Sending to 192.168.88.206:58601:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\1.jpg
+
+2020-05-11 22:56:41.9612 INFO 192.168.88.206:58604 connected 
+
+2020-05-11 22:56:44.2957 INFO 192.168.88.206:58603 requested:
+GET /3.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:56:44.2957 INFO Sending to 192.168.88.206:58603:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\3.jpg
+
+2020-05-11 22:56:44.3159 INFO 192.168.88.206:58605 connected 
+
+2020-05-11 22:56:55.0253 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 22:56:55.0253 INFO 192.168.88.206:58606 connected 
+
+2020-05-11 22:56:55.0253 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 22:56:55.0253 INFO 192.168.88.206:58607 connected 
+
+2020-05-11 22:56:55.0253 INFO 192.168.88.206:58606 requested:
+GET /4.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:56:55.0410 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\4.jpg not exists
+
+2020-05-11 22:56:55.0657 INFO 192.168.88.206:58608 connected 
+
+2020-05-11 22:57:01.5411 INFO 192.168.88.206:58607 requested:
+GET /4.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:01.5411 INFO Sending to 192.168.88.206:58607:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\4.png
+
+2020-05-11 22:57:01.5628 INFO 192.168.88.206:58611 connected 
+
+2020-05-11 22:57:10.0523 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 22:57:11.6117 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 22:57:11.6117 INFO 192.168.88.206:58615 connected 
+
+2020-05-11 22:57:11.6117 INFO 192.168.88.206:58616 connected 
+
+2020-05-11 22:57:19.0397 INFO 192.168.88.206:58615 requested:
+GET /5.html HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.0397 INFO Sending to 192.168.88.206:58615:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5.html
+
+2020-05-11 22:57:19.0605 INFO 192.168.88.206:58616 requested:
+GET /5_files/load.php HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.0605 INFO 192.168.88.206:58617 connected 
+
+2020-05-11 22:57:19.0605 INFO 192.168.88.206:58617 requested:
+GET /5_files/load(1).php HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.0605 INFO Sending to 192.168.88.206:58616:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\load.php
+
+2020-05-11 22:57:19.0605 INFO Sending to 192.168.88.206:58617:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\load(1).php
+
+2020-05-11 22:57:19.0769 INFO 192.168.88.206:58618 connected 
+
+2020-05-11 22:57:19.0769 INFO 192.168.88.206:58618 requested:
+GET /5_files/load(2).php HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.0769 INFO 192.168.88.206:58619 connected 
+
+2020-05-11 22:57:19.0769 INFO 192.168.88.206:58619 requested:
+GET /5_files/Pinus_aristata_cones.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.0769 INFO Sending to 192.168.88.206:58618:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\load(2).php
+
+2020-05-11 22:57:19.0861 INFO 192.168.88.206:58620 connected 
+
+2020-05-11 22:57:19.0861 INFO 192.168.88.206:58620 requested:
+GET /5_files/275px-Pinus_aristata_range_map_1.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.0861 INFO Sending to 192.168.88.206:58619:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\Pinus_aristata_cones.jpg
+
+2020-05-11 22:57:19.0861 INFO 192.168.88.206:58621 connected 
+
+2020-05-11 22:57:19.0861 INFO 192.168.88.206:58621 requested:
+GET /5_files/240px-Status_iucn2.3_NT_ru.svg.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.0861 INFO Sending to 192.168.88.206:58620:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\275px-Pinus_aristata_range_map_1.png
+
+2020-05-11 22:57:19.0861 INFO 192.168.88.206:58622 connected 
+
+2020-05-11 22:57:19.1043 INFO Sending to 192.168.88.206:58621:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\240px-Status_iucn2.3_NT_ru.svg.png
+
+2020-05-11 22:57:19.1043 INFO 192.168.88.206:58622 requested:
+GET /5_files/17px-Wikispecies-logo.svg.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.1043 INFO 192.168.88.206:58623 connected 
+
+2020-05-11 22:57:19.1043 INFO 192.168.88.206:58623 requested:
+GET /5_files/15px-Commons-logo.svg.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.1043 INFO Sending to 192.168.88.206:58622:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\17px-Wikispecies-logo.svg.png
+
+2020-05-11 22:57:19.1043 INFO 192.168.88.206:58624 connected 
+
+2020-05-11 22:57:19.1043 INFO 192.168.88.206:58624 requested:
+GET /5_files/180px-Pinus_Aristata_resin_flecks.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.1043 INFO Sending to 192.168.88.206:58623:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\15px-Commons-logo.svg.png
+
+2020-05-11 22:57:19.1273 INFO 192.168.88.206:58625 connected 
+
+2020-05-11 22:57:19.1273 INFO 192.168.88.206:58625 requested:
+GET /5_files/180px-Pinus_aristata_PAN_Foliage.JPG HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.1273 INFO Sending to 192.168.88.206:58624:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\180px-Pinus_Aristata_resin_flecks.jpg
+
+2020-05-11 22:57:19.1273 INFO 192.168.88.206:58626 connected 
+
+2020-05-11 22:57:19.1336 INFO 192.168.88.206:58626 requested:
+GET /5_files/200px-Pinus_aristata_foliage.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.1336 INFO Sending to 192.168.88.206:58625:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\180px-Pinus_aristata_PAN_Foliage.JPG
+
+2020-05-11 22:57:19.1336 INFO 192.168.88.206:58627 connected 
+
+2020-05-11 22:57:19.1336 INFO 192.168.88.206:58627 requested:
+GET /5_files/Oakleaf_template.gif HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.1336 INFO 192.168.88.206:58628 connected 
+
+2020-05-11 22:57:19.1336 INFO Sending to 192.168.88.206:58626:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\200px-Pinus_aristata_foliage.jpg
+
+2020-05-11 22:57:19.1336 INFO 192.168.88.206:58628 requested:
+GET /5_files/wikimedia-button.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.1336 INFO Sending to 192.168.88.206:58627:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\Oakleaf_template.gif
+
+2020-05-11 22:57:19.1336 INFO 192.168.88.206:58629 connected 
+
+2020-05-11 22:57:19.1336 INFO 192.168.88.206:58629 requested:
+GET /5_files/poweredby_mediawiki_88x31.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.1594 INFO Sending to 192.168.88.206:58628:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\wikimedia-button.png
+
+2020-05-11 22:57:19.1594 INFO 192.168.88.206:58630 connected 
+
+2020-05-11 22:57:19.1594 INFO 192.168.88.206:58630 requested:
+GET /w/load.php?lang=ru&modules=ext.gadget.blpEditNotice%2Ccollapserefs%2CdirectLinkToCommons%2Cedittop%2Clogo%2CreferenceTooltips%2CsidebarRelated%2Cwikibugs&skin=vector&version=1oyvz HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.1594 INFO Sending to 192.168.88.206:58629:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\poweredby_mediawiki_88x31.png
+
+2020-05-11 22:57:19.1654 INFO 192.168.88.206:58631 connected 
+
+2020-05-11 22:57:19.1654 INFO 192.168.88.206:58631 requested:
+GET /w/load.php?lang=ru&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1i9mj HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.1654 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\w\load.php not exists
+
+2020-05-11 22:57:19.1654 INFO 192.168.88.206:58632 connected 
+
+2020-05-11 22:57:19.1654 INFO 192.168.88.206:58632 requested:
+GET /w/load.php?lang=ru&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.flaggedRevs.advanced%7Cext.quicksurveys.init%2Clib%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=1w1e1 HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.1654 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\w\load.php not exists
+
+2020-05-11 22:57:19.1812 INFO 192.168.88.206:58633 connected 
+
+2020-05-11 22:57:19.1812 INFO 192.168.88.206:58633 requested:
+GET /w/extensions/UniversalLanguageSelector/resources/images/compact-links-trigger.svg?ebb8e HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:57:19.1812 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\w\load.php not exists
+
+2020-05-11 22:57:19.1812 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\w\extensions\UniversalLanguageSelector\resources\images\compact-links-trigger.svg not exists
+
+2020-05-11 22:57:19.2390 INFO 192.168.88.206:58634 connected 
+
+2020-05-11 22:57:19.2390 INFO 192.168.88.206:58635 connected 
+
+2020-05-11 22:57:29.2882 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 22:57:29.2882 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 22:57:29.2882 INFO 192.168.88.206:58636 connected 
+
+2020-05-11 22:57:39.3392 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 22:58:54.5840 INFO Server started.
+
+2020-05-11 22:58:58.1338 INFO 192.168.88.206:58667 connected 
+
+2020-05-11 22:58:58.1573 INFO 192.168.88.206:58668 connected 
+
+2020-05-11 22:59:00.4879 INFO 192.168.88.206:58667 requested:
+GET /5.html HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:59:17.0902 INFO 192.168.88.206:58673 connected 
+
+2020-05-11 22:59:17.0902 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 22:59:19.4256 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 22:59:21.1429 INFO 192.168.88.206:58674 connected 
+
+2020-05-11 22:59:21.1594 INFO Sending to 192.168.88.206:58667:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5.html
+
+2020-05-11 22:59:30.6410 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 22:59:31.0070 INFO 192.168.88.206:58677 requested:
+GET /5_files/load.php HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 22:59:30.9813 INFO 192.168.88.206:58677 connected 
+
+2020-05-11 22:59:32.0366 INFO 192.168.88.206:58678 connected 
+
+2020-05-11 22:59:32.2906 INFO Sending to 192.168.88.206:58677:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\load.php
+
+2020-05-11 22:59:32.0366 INFO 192.168.88.206:58678 requested:
+GET /5_files/load(1).php HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:00:17.6647 INFO Server started.
+
+2020-05-11 23:00:20.3777 INFO 192.168.88.206:58680 connected 
+
+2020-05-11 23:00:20.3876 INFO 192.168.88.206:58681 connected 
+
+2020-05-11 23:00:20.4047 INFO 192.168.88.206:58680 requested:
+GET /5.html HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:01:01.4910 INFO Sending to 192.168.88.206:58680:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5.html
+
+2020-05-11 23:01:10.5114 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:01:10.5114 INFO 192.168.88.206:58690 requested:
+GET /5_files/load.php HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:01:10.5114 INFO 192.168.88.206:58690 connected 
+
+2020-05-11 23:02:50.4580 INFO Sending to 192.168.88.206:58690:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\load.php
+
+2020-05-11 23:02:50.4580 INFO 192.168.88.206:58691 connected 
+
+2020-05-11 23:02:50.4580 INFO 192.168.88.206:58691 requested:
+GET /5_files/load(1).php HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:14.3319 INFO Server started.
+
+2020-05-11 23:03:18.5635 INFO 192.168.88.206:58731 connected 
+
+2020-05-11 23:03:18.5741 INFO 192.168.88.206:58732 connected 
+
+2020-05-11 23:03:18.5922 INFO 192.168.88.206:58731 requested:
+GET /5.html HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.5922 INFO Sending to 192.168.88.206:58731:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5.html
+
+2020-05-11 23:03:18.6324 INFO 192.168.88.206:58732 requested:
+GET /5_files/load.php HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.6343 INFO 192.168.88.206:58733 connected 
+
+2020-05-11 23:03:18.6343 INFO 192.168.88.206:58733 requested:
+GET /5_files/load(1).php HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.6343 INFO Sending to 192.168.88.206:58732:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\load.php
+
+2020-05-11 23:03:18.6343 INFO Sending to 192.168.88.206:58733:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\load(1).php
+
+2020-05-11 23:03:18.6519 INFO 192.168.88.206:58734 connected 
+
+2020-05-11 23:03:18.6519 INFO 192.168.88.206:58734 requested:
+GET /5_files/load(2).php HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.6519 INFO Sending to 192.168.88.206:58734:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\load(2).php
+
+2020-05-11 23:03:18.6701 INFO 192.168.88.206:58735 connected 
+
+2020-05-11 23:03:18.6701 INFO 192.168.88.206:58735 requested:
+GET /5_files/Pinus_aristata_cones.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.6701 INFO 192.168.88.206:58736 connected 
+
+2020-05-11 23:03:18.6701 INFO 192.168.88.206:58736 requested:
+GET /5_files/275px-Pinus_aristata_range_map_1.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.6701 INFO Sending to 192.168.88.206:58735:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\Pinus_aristata_cones.jpg
+
+2020-05-11 23:03:18.6701 INFO 192.168.88.206:58737 connected 
+
+2020-05-11 23:03:18.6820 INFO 192.168.88.206:58737 requested:
+GET /5_files/240px-Status_iucn2.3_NT_ru.svg.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.6820 INFO Sending to 192.168.88.206:58736:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\275px-Pinus_aristata_range_map_1.png
+
+2020-05-11 23:03:18.6820 INFO 192.168.88.206:58738 connected 
+
+2020-05-11 23:03:18.6820 INFO 192.168.88.206:58738 requested:
+GET /5_files/17px-Wikispecies-logo.svg.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.6820 INFO Sending to 192.168.88.206:58737:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\240px-Status_iucn2.3_NT_ru.svg.png
+
+2020-05-11 23:03:18.6820 INFO 192.168.88.206:58739 connected 
+
+2020-05-11 23:03:18.6820 INFO Sending to 192.168.88.206:58738:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\17px-Wikispecies-logo.svg.png
+
+2020-05-11 23:03:18.6964 INFO 192.168.88.206:58739 requested:
+GET /5_files/15px-Commons-logo.svg.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.6964 INFO 192.168.88.206:58740 connected 
+
+2020-05-11 23:03:18.6964 INFO 192.168.88.206:58740 requested:
+GET /5_files/180px-Pinus_Aristata_resin_flecks.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.6964 INFO Sending to 192.168.88.206:58739:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\15px-Commons-logo.svg.png
+
+2020-05-11 23:03:18.6964 INFO 192.168.88.206:58741 connected 
+
+2020-05-11 23:03:18.6964 INFO 192.168.88.206:58741 requested:
+GET /5_files/180px-Pinus_aristata_PAN_Foliage.JPG HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.6964 INFO Sending to 192.168.88.206:58740:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\180px-Pinus_Aristata_resin_flecks.jpg
+
+2020-05-11 23:03:18.6964 INFO 192.168.88.206:58742 connected 
+
+2020-05-11 23:03:18.7134 INFO 192.168.88.206:58742 requested:
+GET /5_files/200px-Pinus_aristata_foliage.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.7134 INFO Sending to 192.168.88.206:58741:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\180px-Pinus_aristata_PAN_Foliage.JPG
+
+2020-05-11 23:03:18.7134 INFO 192.168.88.206:58743 connected 
+
+2020-05-11 23:03:18.7134 INFO 192.168.88.206:58743 requested:
+GET /5_files/Oakleaf_template.gif HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.7134 INFO Sending to 192.168.88.206:58742:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\200px-Pinus_aristata_foliage.jpg
+
+2020-05-11 23:03:18.7134 INFO 192.168.88.206:58744 connected 
+
+2020-05-11 23:03:18.7134 INFO 192.168.88.206:58744 requested:
+GET /5_files/wikimedia-button.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.7268 INFO Sending to 192.168.88.206:58743:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\Oakleaf_template.gif
+
+2020-05-11 23:03:18.7268 INFO Sending to 192.168.88.206:58744:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\wikimedia-button.png
+
+2020-05-11 23:03:18.7268 INFO 192.168.88.206:58745 connected 
+
+2020-05-11 23:03:18.7268 INFO 192.168.88.206:58745 requested:
+GET /5_files/poweredby_mediawiki_88x31.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.7268 INFO 192.168.88.206:58746 connected 
+
+2020-05-11 23:03:18.7268 INFO 192.168.88.206:58746 requested:
+GET /w/extensions/UniversalLanguageSelector/resources/images/compact-links-trigger.svg?ebb8e HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.7268 INFO Sending to 192.168.88.206:58745:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\5_files\poweredby_mediawiki_88x31.png
+
+2020-05-11 23:03:18.7268 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\w\extensions\UniversalLanguageSelector\resources\images\compact-links-trigger.svg not exists
+
+2020-05-11 23:03:18.8292 INFO 192.168.88.206:58747 connected 
+
+2020-05-11 23:03:18.8292 INFO 192.168.88.206:58747 requested:
+GET /w/load.php?lang=ru&modules=ext.gadget.blpEditNotice%2Ccollapserefs%2CdirectLinkToCommons%2Cedittop%2Clogo%2CreferenceTooltips%2CsidebarRelated%2Cwikibugs&skin=vector&version=1oyvz HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.8292 INFO 192.168.88.206:58748 connected 
+
+2020-05-11 23:03:18.8292 INFO 192.168.88.206:58748 requested:
+GET /w/load.php?lang=ru&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector&version=1i9mj HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.8292 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\w\load.php not exists
+
+2020-05-11 23:03:18.8368 INFO 192.168.88.206:58749 connected 
+
+2020-05-11 23:03:18.8368 INFO 192.168.88.206:58749 requested:
+GET /w/load.php?lang=ru&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.flaggedRevs.advanced%7Cext.quicksurveys.init%2Clib%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=1w1e1 HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: */*
+Referer: http://192.168.88.206/5.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:03:18.8368 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\w\load.php not exists
+
+2020-05-11 23:03:18.8368 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\w\load.php not exists
+
+2020-05-11 23:03:18.9215 INFO 192.168.88.206:58750 connected 
+
+2020-05-11 23:03:18.9215 INFO 192.168.88.206:58751 connected 
+
+2020-05-11 23:03:38.9519 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:03:38.9519 INFO 192.168.88.206:58752 connected 
+
+2020-05-11 23:03:38.9519 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:03:38.9519 INFO 192.168.88.206:58753 connected 
+
+2020-05-11 23:03:49.0016 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:03:49.0016 INFO 192.168.88.206:58755 connected 
+
+2020-05-11 23:03:49.0016 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:03:49.0016 INFO 192.168.88.206:58756 connected 
+
+2020-05-11 23:03:59.0523 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:03:59.0523 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:03:59.0523 INFO 192.168.88.206:58757 connected 
+
+2020-05-11 23:03:59.0629 INFO 192.168.88.206:58758 connected 
+
+2020-05-11 23:04:09.1026 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:04:09.1026 INFO 192.168.88.206:58759 connected 
+
+2020-05-11 23:04:09.1026 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:04:09.1026 INFO 192.168.88.206:58760 connected 
+
+2020-05-11 23:04:19.1529 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:04:19.1529 INFO 192.168.88.206:58761 connected 
+
+2020-05-11 23:04:19.1529 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:04:19.1529 INFO 192.168.88.206:58762 connected 
+
+2020-05-11 23:04:29.2028 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:04:29.2028 INFO 192.168.88.206:58770 connected 
+
+2020-05-11 23:04:29.2028 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:04:29.2028 INFO 192.168.88.206:58771 connected 
+
+2020-05-11 23:04:39.2538 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:04:39.2538 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:04:39.2538 INFO 192.168.88.206:58772 connected 
+
+2020-05-11 23:04:39.2642 INFO 192.168.88.206:58773 connected 
+
+2020-05-11 23:04:49.3039 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:04:49.3039 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:04:49.3039 INFO 192.168.88.206:58774 connected 
+
+2020-05-11 23:04:49.3119 INFO 192.168.88.206:58775 connected 
+
+2020-05-11 23:04:59.3545 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:04:59.3545 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:04:59.3545 INFO 192.168.88.206:58778 connected 
+
+2020-05-11 23:04:59.3545 INFO 192.168.88.206:58779 connected 
+
+2020-05-11 23:05:09.4043 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:05:09.4043 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:05:09.4043 INFO 192.168.88.206:58780 connected 
+
+2020-05-11 23:05:09.4319 INFO 192.168.88.206:58781 connected 
+
+2020-05-11 23:05:19.4545 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:05:19.4545 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:05:19.4545 INFO 192.168.88.206:58782 connected 
+
+2020-05-11 23:05:19.4821 INFO 192.168.88.206:58783 connected 
+
+2020-05-11 23:05:29.5051 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:05:29.5051 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:05:29.5091 INFO 192.168.88.206:58785 connected 
+
+2020-05-11 23:05:29.5091 INFO 192.168.88.206:58786 connected 
+
+2020-05-11 23:05:39.5554 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:05:39.5554 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:05:39.5554 INFO 192.168.88.206:58787 connected 
+
+2020-05-11 23:05:39.5874 INFO 192.168.88.206:58788 connected 
+
+2020-05-11 23:05:49.6057 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:05:49.6057 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:05:49.6057 INFO 192.168.88.206:58789 connected 
+
+2020-05-11 23:05:49.6057 INFO 192.168.88.206:58790 connected 
+
+2020-05-11 23:05:59.6564 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:05:59.6564 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:05:59.6564 INFO 192.168.88.206:58791 connected 
+
+2020-05-11 23:05:59.6653 INFO 192.168.88.206:58792 connected 
+
+2020-05-11 23:06:09.7063 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:06:09.7063 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:06:09.7063 INFO 192.168.88.206:58793 connected 
+
+2020-05-11 23:06:09.7121 INFO 192.168.88.206:58794 connected 
+
+2020-05-11 23:06:19.7564 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:06:19.7564 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:06:19.7564 INFO 192.168.88.206:58796 connected 
+
+2020-05-11 23:06:19.7632 INFO 192.168.88.206:58797 connected 
+
+2020-05-11 23:06:29.8066 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:06:29.8066 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:06:29.8066 INFO 192.168.88.206:58801 connected 
+
+2020-05-11 23:06:29.8343 INFO 192.168.88.206:58802 connected 
+
+2020-05-11 23:06:42.8858 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:06:42.8858 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:12:30.7358 INFO Server started.
+
+2020-05-11 23:12:34.0273 INFO 192.168.88.206:58850 connected 
+
+2020-05-11 23:12:34.0273 INFO 192.168.88.206:58851 connected 
+
+2020-05-11 23:12:43.9651 INFO 192.168.88.206:58850 requested:
+GET /1.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:12:43.9651 INFO Sending to 192.168.88.206:58850:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\1.jpg
+
+2020-05-11 23:12:43.9651 INFO Sending to 192.168.88.206:58850:
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Content-Length: 28131
+
+
+
+2020-05-11 23:12:44.0503 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:12:44.0503 INFO 192.168.88.206:58859 connected 
+
+2020-05-11 23:12:44.0503 INFO 192.168.88.206:58860 connected 
+
+2020-05-11 23:12:54.1000 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:12:54.1000 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:12:54.1040 INFO 192.168.88.206:58861 connected 
+
+2020-05-11 23:12:54.1305 INFO 192.168.88.206:58862 connected 
+
+2020-05-11 23:13:04.1502 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:13:04.1502 INFO 192.168.88.206:58865 connected 
+
+2020-05-11 23:13:04.1502 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:13:04.1502 INFO 192.168.88.206:58866 connected 
+
+2020-05-11 23:13:14.2001 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:13:14.2001 INFO 192.168.88.206:58869 connected 
+
+2020-05-11 23:13:14.2001 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:13:24.2505 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:14:53.3763 INFO Server started.
+
+2020-05-11 23:14:54.7080 INFO 192.168.88.206:58892 connected 
+
+2020-05-11 23:14:54.7147 INFO 192.168.88.206:58893 connected 
+
+2020-05-11 23:14:57.1685 INFO 192.168.88.206:58892 requested:
+GET /1.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:14:57.1685 INFO Sending to 192.168.88.206:58892:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\1.jpg
+
+2020-05-11 23:14:57.1685 INFO Sending to 192.168.88.206:58892:
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Content-Length: 28131
+
+
+
+2020-05-11 23:14:57.2026 INFO 192.168.88.206:58894 connected 
+
+2020-05-11 23:15:00.9319 INFO 192.168.88.206:58893 requested:
+GET /2.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:15:00.9319 INFO Sending to 192.168.88.206:58893:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\2.jpg
+
+2020-05-11 23:15:00.9319 INFO Sending to 192.168.88.206:58893:
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Content-Length: 97149
+
+
+
+2020-05-11 23:15:00.9544 INFO 192.168.88.206:58895 connected 
+
+2020-05-11 23:15:11.0058 INFO 192.168.88.206:58896 connected 
+
+2020-05-11 23:15:11.0058 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:15:11.0058 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:15:11.0188 INFO 192.168.88.206:58897 connected 
+
+2020-05-11 23:15:21.0554 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:15:21.0554 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:15:21.0554 INFO 192.168.88.206:58898 connected 
+
+2020-05-11 23:15:21.0554 INFO 192.168.88.206:58899 connected 
+
+2020-05-11 23:15:31.1062 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:15:31.1062 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:15:31.1062 INFO 192.168.88.206:58901 connected 
+
+2020-05-11 23:15:31.1062 INFO 192.168.88.206:58902 connected 
+
+2020-05-11 23:15:41.1568 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:15:41.1568 INFO 192.168.88.206:58903 connected 
+
+2020-05-11 23:15:41.1568 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:15:41.1650 INFO 192.168.88.206:58904 connected 
+
+2020-05-11 23:15:51.2066 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:15:51.2066 INFO 192.168.88.206:58910 connected 
+
+2020-05-11 23:15:51.2066 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:15:51.2150 INFO 192.168.88.206:58911 connected 
+
+2020-05-11 23:16:01.2566 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:16:01.2566 INFO 192.168.88.206:58912 connected 
+
+2020-05-11 23:16:01.2566 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:16:01.2622 INFO 192.168.88.206:58913 connected 
+
+2020-05-11 23:16:11.3073 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:16:11.3073 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:16:11.3073 INFO 192.168.88.206:58914 connected 
+
+2020-05-11 23:16:21.3590 ERROR 404 File C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\ not exists
+
+2020-05-11 23:16:51.6122 INFO Server started.
+
+2020-05-11 23:16:52.0152 INFO 192.168.88.206:58925 connected 
+
+2020-05-11 23:16:52.0152 INFO 192.168.88.206:58924 connected 
+
+2020-05-11 23:16:58.8376 INFO 192.168.88.206:58925 requested:
+GET /3.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:17:04.4562 INFO Sending to 192.168.88.206:58925:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\3.jpg
+
+2020-05-11 23:17:04.4562 INFO Sending to 192.168.88.206:58925:
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Content-Length: 76546
+
+
+
+2020-05-11 23:17:04.4812 INFO 192.168.88.206:58928 connected 
+
+2020-05-11 23:17:04.4812 INFO 192.168.88.206:58929 connected 
+
+2020-05-11 23:17:29.5433 INFO 192.168.88.206:58931 connected 
+
+2020-05-11 23:17:29.5433 INFO 192.168.88.206:58932 connected 
+
+2020-05-11 23:17:39.5918 INFO 192.168.88.206:58933 connected 
+
+2020-05-11 23:17:39.5918 INFO 192.168.88.206:58934 connected 
+
+2020-05-11 23:17:49.6418 INFO 192.168.88.206:58935 connected 
+
+2020-05-11 23:17:49.6418 INFO 192.168.88.206:58936 connected 
+
+2020-05-11 23:17:59.6910 INFO 192.168.88.206:58937 connected 
+
+2020-05-11 23:17:59.6958 INFO 192.168.88.206:58938 connected 
+
+2020-05-11 23:18:09.7419 INFO 192.168.88.206:58941 connected 
+
+2020-05-11 23:18:09.7460 INFO 192.168.88.206:58942 connected 
+
+2020-05-11 23:18:19.7925 INFO 192.168.88.206:58947 connected 
+
+2020-05-11 23:18:19.7925 INFO 192.168.88.206:58948 connected 
+
+2020-05-11 23:18:29.8456 INFO 192.168.88.206:58952 connected 
+
+2020-05-11 23:18:29.8551 INFO 192.168.88.206:58953 connected 
+
+2020-05-11 23:18:39.8938 INFO 192.168.88.206:58954 connected 
+
+2020-05-11 23:18:39.8995 INFO 192.168.88.206:58955 connected 
+
+2020-05-11 23:18:49.9423 INFO 192.168.88.206:58957 connected 
+
+2020-05-11 23:18:49.9460 INFO 192.168.88.206:58958 connected 
+
+2020-05-11 23:18:59.9924 INFO 192.168.88.206:58959 connected 
+
+2020-05-11 23:18:59.9967 INFO 192.168.88.206:58960 connected 
+
+2020-05-11 23:19:10.0489 INFO 192.168.88.206:58961 connected 
+
+2020-05-11 23:19:10.0596 INFO 192.168.88.206:58962 connected 
+
+2020-05-11 23:19:17.7319 INFO Server started.
+
+2020-05-11 23:19:20.0941 INFO 192.168.88.206:58963 connected 
+
+2020-05-11 23:19:20.1022 INFO 192.168.88.206:58964 connected 
+
+2020-05-11 23:19:22.8648 INFO 192.168.88.206:58963 requested:
+GET /2.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:19:22.8697 INFO Sending to 192.168.88.206:58963:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\2.jpg
+
+2020-05-11 23:19:22.8697 INFO Sending to 192.168.88.206:58963:
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Content-Length: 97149
+
+
+
+2020-05-11 23:19:22.8933 INFO 192.168.88.206:58965 connected 
+
+2020-05-11 23:19:32.9467 INFO 192.168.88.206:58968 connected 
+
+2020-05-11 23:19:32.9467 INFO 192.168.88.206:58969 connected 
+
+2020-05-11 23:19:42.9992 INFO 192.168.88.206:58973 connected 
+
+2020-05-11 23:19:42.9992 INFO 192.168.88.206:58974 connected 
+
+2020-05-11 23:19:53.0476 INFO 192.168.88.206:58975 connected 
+
+2020-05-11 23:19:53.0476 INFO 192.168.88.206:58976 connected 
+
+2020-05-11 23:20:03.0979 INFO 192.168.88.206:58977 connected 
+
+2020-05-11 23:20:03.1021 INFO 192.168.88.206:58978 connected 
+
+2020-05-11 23:20:13.1505 INFO 192.168.88.206:58979 connected 
+
+2020-05-11 23:20:13.1505 INFO 192.168.88.206:58980 connected 
+
+2020-05-11 23:20:23.1978 INFO 192.168.88.206:58981 connected 
+
+2020-05-11 23:20:23.1978 INFO 192.168.88.206:58982 connected 
+
+2020-05-11 23:20:33.2488 INFO 192.168.88.206:58984 connected 
+
+2020-05-11 23:20:33.2488 INFO 192.168.88.206:58985 connected 
+
+2020-05-11 23:22:39.7399 INFO Server started.
+
+2020-05-11 23:22:43.9058 INFO 192.168.88.206:59021 connected 
+
+2020-05-11 23:22:43.9181 INFO 192.168.88.206:59022 connected 
+
+2020-05-11 23:22:48.4920 INFO 192.168.88.206:59021 requested:
+GET /1.jpg HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Purpose: prefetch
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+2020-05-11 23:22:48.4974 INFO Sending to 192.168.88.206:59021:
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\storage\1.jpg
+
+2020-05-11 23:22:48.4974 INFO Sending to 192.168.88.206:59021:
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Content-Length: 28131
+
+
+
+2020-05-11 23:22:49.0252 INFO 192.168.88.206:59024 connected 
+
+2020-05-11 23:22:59.1175 INFO 192.168.88.206:59025 connected 
+

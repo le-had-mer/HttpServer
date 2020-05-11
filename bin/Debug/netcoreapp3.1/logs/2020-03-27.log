@@ -1,0 +1,83 @@
+2020-03-27 12:50:26.5447 INFO Server started.
+
+2020-03-27 12:50:54.5096 INFO 192.168.88.64:46030 connected 
+
+2020-03-27 12:50:54.5096 INFO 192.168.88.64:46032 connected 
+
+2020-03-27 12:50:54.5384 INFO 192.168.88.64:46030 requested:
+GET / HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 10; ONEPLUS A6013) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-03-27 12:50:54.6780 INFO 192.168.88.64:46034 connected 
+
+2020-03-27 12:50:54.6780 INFO 192.168.88.64:46032 requested:
+GET /favicon.ico HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 10; ONEPLUS A6013) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-03-27 12:50:58.5508 INFO 192.168.88.64:46034 requested:
+GET /1.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 10; ONEPLUS A6013) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-03-27 12:50:58.5508 INFO 192.168.88.64:46036 connected 
+
+2020-03-27 12:51:03.2658 INFO 192.168.88.64:46038 connected 
+
+2020-03-27 13:19:17.7409 INFO Server started.
+
+2020-03-27 13:19:33.1733 INFO 192.168.88.206:51418 connected 
+
+2020-03-27 13:19:33.1733 INFO 192.168.88.206:51419 connected 
+
+2020-03-27 13:19:33.2092 INFO 192.168.88.206:51418 requested:
+GET /1.png HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-03-27 13:19:33.3297 INFO 192.168.88.206:51420 connected 
+
+2020-03-27 13:19:33.3297 INFO 192.168.88.206:51419 requested:
+GET /favicon.ico HTTP/1.1
+Host: 192.168.88.206
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.88.206/1.png
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+2020-03-27 13:33:15.8397 INFO 192.168.88.64:46096 connected 
+
+2020-03-27 13:33:18.8452 INFO 192.168.88.64:46094 connected 
+
+2020-03-27 14:42:15.0330 INFO 192.168.88.206:53573 connected 
+
+2020-03-27 14:42:15.0330 INFO 192.168.88.206:53574 connected 
+

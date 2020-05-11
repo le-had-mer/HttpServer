@@ -1,0 +1,14 @@
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\HTTPServerConsole.exe
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\HTTPServerConsole.deps.json
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\HTTPServerConsole.runtimeconfig.json
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\HTTPServerConsole.runtimeconfig.dev.json
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\HTTPServerConsole.dll
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\HTTPServerConsole.pdb
+C:\Users\le had mer\source\repos\HTTPServerConsole\obj\Debug\netcoreapp3.1\HTTPServerConsole.csprojAssemblyReference.cache
+C:\Users\le had mer\source\repos\HTTPServerConsole\obj\Debug\netcoreapp3.1\HTTPServerConsole.AssemblyInfoInputs.cache
+C:\Users\le had mer\source\repos\HTTPServerConsole\obj\Debug\netcoreapp3.1\HTTPServerConsole.AssemblyInfo.cs
+C:\Users\le had mer\source\repos\HTTPServerConsole\obj\Debug\netcoreapp3.1\HTTPServerConsole.dll
+C:\Users\le had mer\source\repos\HTTPServerConsole\obj\Debug\netcoreapp3.1\HTTPServerConsole.pdb
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\le had mer\source\repos\HTTPServerConsole\obj\Debug\netcoreapp3.1\HTTPServerConsole.csproj.CopyComplete
+C:\Users\le had mer\source\repos\HTTPServerConsole\bin\Debug\netcoreapp3.1\NLog.config
