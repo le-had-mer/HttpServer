@@ -5,7 +5,7 @@ using NLog;
 
 namespace HTTPServerConsole
 {
-    static public class hsLogger
+    static public class HsLogger
     {
         static public Logger log;
         static public void Start()
@@ -45,7 +45,7 @@ namespace HTTPServerConsole
         static public void SendingFile(string ip, string file)
         {
             log.Info(
-                "Sending to {0}:\n" +
+                "Sending file to {0}:\n" +
                 "{1}\n", ip, file);
             Console.WriteLine(
                 "Sending to {0}:\n" +
@@ -55,7 +55,7 @@ namespace HTTPServerConsole
         static public void SendingAnswer(string ip, string ans)
         {
             log.Info(
-                "Sending to {0}:\n" +
+                "Sending answer to {0}:\n" +
                 "{1}\n", ip, ans);
         }
 

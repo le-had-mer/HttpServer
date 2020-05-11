@@ -18,7 +18,7 @@ namespace HTTPServerConsole
 			Listener = new TcpListener(IPAddress.Any, Port);
 			{
 				Listener.Start();
-				hsLogger.Start();
+				HsLogger.Start();
 			}
 
 			while (true)
@@ -27,13 +27,13 @@ namespace HTTPServerConsole
 				Thread Thread = new Thread(new ParameterizedThreadStart(ClientThread));
 				Thread.Start(Client);
 
-				hsLogger.Connected(Client.Client.RemoteEndPoint.ToString()); //лог
+				HsLogger.Connected(Client.Client.RemoteEndPoint.ToString()); //лог
 			}
 		}
 
 		public void Dispose()
 		{
-			hsLogger.Close();
+			HsLogger.Close();
 		}
 
 

@@ -20,7 +20,7 @@ namespace HTTPServerConsole
                 Request += Encoding.ASCII.GetString(Buffer, 0, Count);
                 if (Request.LastIndexOf("\r\n\r\n") >= 0 || Request.Length>4096)
                 {
-                    hsLogger.Request(Client.Client.RemoteEndPoint.ToString(), Request);
+                    HsLogger.Request(Client.Client.RemoteEndPoint.ToString(), Request);
                     break;
                 }  
             }
@@ -32,7 +32,7 @@ namespace HTTPServerConsole
             Match ReqMatch = Regex.Match(Request, @"^\w+\s+([^\s\?]+)[^\s]*\s+HTTP/.*");
             if (ReqMatch.Equals((Match.Empty))&(Request.Length>0))
             {
-                hsLogger.BadRequest(Request);
+                HsLogger.BadRequest(Request);
                 SendError(Client, 400);
                 return;
             }
@@ -40,11 +40,11 @@ namespace HTTPServerConsole
             string RequestUri = ReqMatch.Groups[1].Value;
             RequestUri = Uri.UnescapeDataString(RequestUri);
 
-            hsLogger.RequestFile(Client.Client.RemoteEndPoint.ToString(), RequestUri);
+            HsLogger.RequestFile(Client.Client.RemoteEndPoint.ToString(), RequestUri);
 
             if (RequestUri.IndexOf("..") >= 0)
             {
-                hsLogger.BadRequest(RequestUri);
+                HsLogger.BadRequest(RequestUri);
                 SendError(Client, 400);
                 return;
             }
@@ -59,7 +59,7 @@ namespace HTTPServerConsole
 
             if (!File.Exists(FilePath))
             {
-                hsLogger.FileNotExists(Path.GetFullPath(FilePath));
+                HsLogger.FileNotExists(Path.GetFullPath(FilePath));
                 SendError(Client, 404);
                 return;
             }
@@ -100,17 +100,17 @@ namespace HTTPServerConsole
 
             catch (Exception)
             {
-                hsLogger.FileOpenFailed(Path.GetFullPath(FilePath));
+                HsLogger.FileOpenFailed(Path.GetFullPath(FilePath));
                 SendError(Client, 500);
                 return;
             }
 
-            hsLogger.SendingFile(Client.Client.RemoteEndPoint.ToString(), Path.GetFullPath(FilePath));
+            HsLogger.SendingFile(Client.Client.RemoteEndPoint.ToString(), Path.GetFullPath(FilePath));
           
             string Headers = "HTTP/1.1 200 OK\nContent-Type: " + ContentType + "\nContent-Length: " + FS.Length + "\n\n";
             byte[] HeadersBuffer = Encoding.ASCII.GetBytes(Headers);
             Client.GetStream().Write(HeadersBuffer, 0, HeadersBuffer.Length);
-            hsLogger.SendingAnswer(Client.Client.RemoteEndPoint.ToString(), Headers);
+            HsLogger.SendingAnswer(Client.Client.RemoteEndPoint.ToString(), Headers);
 
             while (FS.Position < FS.Length)
             {
@@ -118,14 +118,13 @@ namespace HTTPServerConsole
                 Client.GetStream().Write(Buffer, 0, Count);
             }
 
-
             FS.Close();
             Client.Close();
 
         }
         private void SendError(TcpClient Client, int Code)
         {
-            string CodeStr = Code.ToString() + ((HttpStatusCode)Code).ToString();
+            string CodeStr = Code.ToString() + " " + ((HttpStatusCode)Code).ToString();
             string Html = "<html><body><h1>" + CodeStr + "</h1></body></html>";
             string Str = "HTTP/1.1 " + CodeStr + "\nContent-type: text/html\nContent-Length:" + Html.Length.ToString() + "\n\n" + Html;
             byte[] Buffer = Encoding.ASCII.GetBytes(Str);

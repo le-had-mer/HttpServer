@@ -17,7 +17,7 @@ namespace HTTPServerConsole
                 "5.html\n" +
                 "6.gif");
 
-            hsLogger.log = logger;
+            HsLogger.log = logger;
             Server server = new Server(80, logger);
         }
     }
